@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-LINK TO PROJECT      https://akshatjane.github.io/sorting-visualizer/
+LINK TO PROJECT      https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
   
   
   
